@@ -1,0 +1,78 @@
+/* FeedHive v2.0, measured 2026-09-09. Scope to .style-002-scope. */
+.style-002-scope {
+  --s2-page: #fff;
+  --s2-ink: #23252b;
+  --s2-body: #7d8290;
+  --s2-action: #4457ff;
+  --s2-action-hover: #3347fb;
+  --s2-highlight: #5a78ff;
+  --s2-surface: #f6f6f8;
+  --s2-social-surface: #f5f5f8;
+  --s2-line: #edeef3;
+  --s2-chip-line: #d8dbe2;
+  --s2-display: 'FeedHive Jakarta', 'Plus Jakarta Sans', sans-serif;
+  --s2-text: 'FeedHive Inter', Inter, sans-serif;
+  --s2-mono: 'FeedHive Mono', 'Sometype Mono', monospace;
+  --s2-container: 1188px;
+  --s2-wall-container: 1260px;
+  --s2-cta-container: 1248px;
+  --s2-h1: 55px;
+  --s2-h2: 58px;
+  --s2-h1-leading: 1.02;
+  --s2-h2-leading: 0.98;
+  --s2-h1-tracking: -0.035em;
+  --s2-h2-tracking: -0.03em;
+  --s2-button-height: 50px;
+  --s2-button-radius: 15px;
+  --s2-card-radius: 15px;
+  --s2-cta-radius: 34px;
+  --s2-card-gap: 18px;
+  --s2-grid-background:
+    linear-gradient(to right, rgba(61, 86, 255, 0.055) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(61, 86, 255, 0.055) 1px, transparent 1px);
+  --s2-grid-mask: linear-gradient(
+    to bottom,
+    #000 0%,
+    #000 62%,
+    rgba(0, 0, 0, 0.78) 78%,
+    rgba(0, 0, 0, 0.32) 90%,
+    transparent 100%
+  );
+  --s2-cta-gradient: linear-gradient(
+    135deg,
+    #4e7cff 0%,
+    #9f4bff 24%,
+    #d54a96 58%,
+    #ed7d3f 100%
+  );
+  --s2-cta-light:
+    radial-gradient(
+      circle at 12% 22%,
+      rgba(255, 255, 255, 0.55),
+      transparent 17%
+    ),
+    radial-gradient(
+      circle at 82% 20%,
+      rgba(255, 255, 255, 0.14),
+      transparent 22%
+    ),
+    radial-gradient(
+      circle at 78% 100%,
+      rgba(86, 74, 255, 0.5),
+      transparent 24%
+    ),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.06), transparent);
+  --s2-wall-shadow: 0 24px 60px rgba(66, 74, 119, 0.08);
+  --s2-wall-hover-shadow: 0 30px 68px rgba(66, 74, 119, 0.14);
+  --s2-ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --s2-ease-emphasis: cubic-bezier(0.22, 1, 0.36, 1);
+  --s2-ease-logo: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --s2-hover-duration: 300ms;
+  --s2-check-duration: 340ms;
+  --s2-logo-duration: 420ms;
+  --s2-rock-duration: 16s;
+  --s2-ring-duration: 2.2s;
+  /* reconstructed: editable UI surfaces within source image compositions */
+  --s2-ui-shadow: 0 2px 4px #20232b0a, 0 10px 18px #20232b12;
+  --s2-preview-period: 4500ms;
+}

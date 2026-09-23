@@ -1,0 +1,119 @@
+{
+  "documentWidth": 1425,
+  "hero": [
+    {
+      "animation": "none",
+      "background": "none",
+      "box": {
+        "height": 680,
+        "width": 1188
+      },
+      "font": "16px / 24px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "normal",
+      "selector": "fh-container fh-hero-grid"
+    },
+    {
+      "animation": "none",
+      "background": "none",
+      "box": {
+        "height": 115.453125,
+        "width": 620
+      },
+      "font": "600 55px / 56.1px \"FeedHive Jakarta\", \"Plus Jakarta Sans\", sans-serif",
+      "fontSpacing": "-1.925px",
+      "selector": ""
+    },
+    {
+      "animation": "none",
+      "background": "none",
+      "box": {
+        "height": 50,
+        "width": 218.5
+      },
+      "font": "500 15px / 22.5px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "-0.45px",
+      "selector": "fh-primary"
+    },
+    {
+      "animation": "16s ease-in-out infinite fh-rock",
+      "background": "none",
+      "box": {
+        "height": 153,
+        "width": 1585
+      },
+      "font": "16px / 24px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "normal",
+      "selector": "fh-social-row"
+    },
+    {
+      "animation": "16s ease-in-out -4.5s infinite fh-rock",
+      "background": "none",
+      "box": {
+        "height": 153,
+        "width": 1585
+      },
+      "font": "16px / 24px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "normal",
+      "selector": "fh-social-row"
+    },
+    {
+      "animation": "16s ease-in-out -9s infinite fh-rock",
+      "background": "none",
+      "box": {
+        "height": 153,
+        "width": 1585
+      },
+      "font": "16px / 24px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "normal",
+      "selector": "fh-social-row"
+    },
+    {
+      "animation": "none",
+      "background": "none",
+      "box": {
+        "height": 903,
+        "width": 1240
+      },
+      "font": "16px / 24px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "normal",
+      "selector": "fh-wall-grid"
+    },
+    {
+      "animation": "none",
+      "background": "linear-gradient(135deg, rgb(78, 124, 255) 0%, rgb(159, 75, 255) 24%, rgb(213, 74, 150) 58%, rgb(237, 125, 63) 100%)",
+      "box": {
+        "height": 830,
+        "width": 1248
+      },
+      "font": "16px / 24px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "normal",
+      "selector": "fh-cta"
+    },
+    {
+      "animation": "none",
+      "background": "none",
+      "box": {
+        "height": 50,
+        "width": 161.671875
+      },
+      "font": "500 15px / 22.5px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "-0.45px",
+      "selector": "fh-primary"
+    },
+    {
+      "animation": "none",
+      "background": "none",
+      "box": {
+        "height": 50,
+        "width": 122.75
+      },
+      "font": "500 15px / 22.5px \"FeedHive Inter\", Inter, sans-serif",
+      "fontSpacing": "-0.45px",
+      "selector": "fh-primary"
+    }
+  ],
+  "viewport": [
+    1440,
+    900
+  ]
+}

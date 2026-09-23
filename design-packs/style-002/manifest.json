@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "styleId": "style-002",
+  "name": "FeedHive",
+  "sourceUrl": "https://www.feedhive.com/",
+  "status": "extracted",
+  "observedAt": "2026-09-09",
+  "inspection": {
+    "method": "Browser live navigation, read-only DOM/computed styles, delivered CSS, actual menu and preview interaction",
+    "sourceVersion": "Current homepage v2.0",
+    "desktopEvidenceViewport": "1754x1315",
+    "desktopScreenshotViewport": "1440x900",
+    "mobileViewport": "390x844"
+  },
+  "entrypoints": {
+    "agent": "agent.md",
+    "tokens": "tokens.json",
+    "cssVariables": "tokens.css",
+    "inventory": "visual-inventory.md",
+    "typography": "typography.md",
+    "layout": "layout.md",
+    "components": "components.md",
+    "motion": "motion.md",
+    "responsive": "responsive.md",
+    "productUI": "product-ui.md",
+    "specialModules": "special-modules.md",
+    "validation": "validation.md",
+    "implementation": "../../components/feedhive-playground.tsx",
+    "implementationCSS": "../../components/feedhive.css",
+    "playground": "/styles/style-002/playground",
+    "detail": "/styles/style-002"
+  },
+  "screenshots": {
+    "desktop": "screenshots/desktop.jpg",
+    "mobile": "screenshots/mobile.jpg",
+    "desktopFull": "/references/style-002-desktop-full.jpg",
+    "mobileFull": "/references/style-002-mobile-full.jpg",
+    "playgroundDesktop": "screenshots/playground-desktop.jpg",
+    "playgroundMobile": "screenshots/playground-mobile.jpg"
+  },
+  "evidence": {
+    "desktop": "evidence/desktop-dom.json",
+    "mobile": "evidence/mobile-dom.json",
+    "sections": "evidence/sections.json",
+    "navigation": "evidence/navigation.json",
+    "assets": "evidence/assets.json",
+    "stylesheets": "evidence/stylesheets/"
+  },
+  "summary": {
+    "visualLanguage": "White-led, blue actions and dashed display emphasis, tight Jakarta typography, oversized fading product UI, seam grids, rocking integration tiles, dense pastel feature wall, multicolor closing CTA",
+    "measured": [
+      "source fonts and type scale",
+      "color and background layers",
+      "main container and module spacing",
+      "grid geometry and radii",
+      "source breakpoint rules",
+      "CSS animation keyframes and easing",
+      "hover ring and card treatment"
+    ],
+    "reconstructed": [
+      "neutral branding and text",
+      "product UI interior DOM and example data",
+      "image-based charts and diagrams",
+      "preview and logo timer intervals",
+      "demo sequence replacing source video",
+      "accessible controls and editable workbench forms"
+    ],
+    "newCapabilities": [
+      "12-mode product preview",
+      "conic hover border and glow",
+      "rocking integration matrix with slanted masks",
+      "responsive dense feature wall",
+      "agentic workflow cards and code UI",
+      "layered product illustration recipes",
+      "multilayer gradient CTA",
+      "evidence-indexed responsive rules"
+    ]
+  },
+  "reuse": {
+    "framework": "React",
+    "dependencies": [
+      "react",
+      "lucide-react",
+      "next/link (replace with local router when porting)"
+    ],
+    "rootClass": "style-002-scope fh",
+    "referenceAssets": "Source reference only; replace branded images for a new product"
+  }
+}

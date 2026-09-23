@@ -1,0 +1,9 @@
+{
+  "styleId": "style-002",
+  "name": "FeedHive",
+  "note": "蓝色网格，产品消隐与动态矩阵",
+  "sourceUrl": "https://www.feedhive.com/",
+  "status": "extracted",
+  "desktopScreenshot": "screenshots/desktop.jpg",
+  "mobileScreenshot": "screenshots/mobile.jpg"
+}

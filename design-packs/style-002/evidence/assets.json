@@ -1,0 +1,202 @@
+[
+  {
+    "url": "https://www.feedhive.com/_next/static/media/543712a1048bd1ed-s.p.b875d14a.woff2",
+    "name": "543712a1048bd1ed-s.p.b875d14a.woff2",
+    "kind": "font"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+    "name": "83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+    "kind": "font"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/fba5a26ea33df6a3-s.p.1bbdebe6.woff2",
+    "name": "fba5a26ea33df6a3-s.p.1bbdebe6.woff2",
+    "kind": "font"
+  },
+  {
+    "url": "https://www.feedhive.com/images/logo.webp",
+    "name": "logo.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/feature-image-alt-1.8e327a2d.webp",
+    "name": "feature-image-alt-1.8e327a2d.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/feature-image-alt-2.1b9e986a.webp",
+    "name": "feature-image-alt-2.1b9e986a.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/feature-image-alt-3.867f4d3d.webp",
+    "name": "feature-image-alt-3.867f4d3d.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-composer.webp",
+    "name": "hero-composer.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/chunks/e28ed86384dd6d7e.css",
+    "name": "e28ed86384dd6d7e.css",
+    "kind": "stylesheet"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/chunks/f47235c075d09435.css",
+    "name": "f47235c075d09435.css",
+    "kind": "stylesheet"
+  },
+  {
+    "url": "https://www.feedhive.com/images/riverside.webp",
+    "name": "riverside.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/beehiiv.webp",
+    "name": "beehiiv.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/fauna.webp",
+    "name": "fauna.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/prismic.webp",
+    "name": "prismic.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/rapidapi.webp",
+    "name": "rapidapi.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/cycle-image-alt-2-3.04a729f7.webp",
+    "name": "cycle-image-alt-2-3.04a729f7.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/cycle-image-alt-2-1.bafdd858.webp",
+    "name": "cycle-image-alt-2-1.bafdd858.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/cycle-image-alt-2-2.f28c58ae.webp",
+    "name": "cycle-image-alt-2-2.f28c58ae.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/thirdweb.webp",
+    "name": "thirdweb.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-ai-assistant.webp",
+    "name": "hero-ai-assistant.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-automation.webp",
+    "name": "hero-automation.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-post-conditions.webp",
+    "name": "hero-post-conditions.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-smart-scheduling.webp",
+    "name": "hero-smart-scheduling.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-social-inbox.webp",
+    "name": "hero-social-inbox.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-recycle-suggestions.webp",
+    "name": "hero-recycle-suggestions.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/testimonial-user.9dc7497b.webp",
+    "name": "testimonial-user.9dc7497b.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/showcase-image-1.607ff91a.webp",
+    "name": "showcase-image-1.607ff91a.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/showcase-image-2.18b97c62.webp",
+    "name": "showcase-image-2.18b97c62.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/analytics-hero.png",
+    "name": "analytics-hero.png",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-ai-design-library.webp",
+    "name": "hero-ai-design-library.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/hero-telegram.webp",
+    "name": "hero-telegram.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/claude-code-terminal.webp",
+    "name": "claude-code-terminal.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/feedhive-api-cli-terminal.webp",
+    "name": "feedhive-api-cli-terminal.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/feature-image-4.2eb1554d.webp",
+    "name": "feature-image-4.2eb1554d.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/feature-image-5.ade96dfa.webp",
+    "name": "feature-image-5.ade96dfa.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/claude-code-agentic-card.414795e6.webp",
+    "name": "claude-code-agentic-card.414795e6.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/_next/static/media/feedhive-api-cli-agentic-card.83ee886d.webp",
+    "name": "feedhive-api-cli-agentic-card.83ee886d.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/images/senja.webp",
+    "name": "senja.webp",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/favicon.ico",
+    "name": "favicon.ico",
+    "kind": "image"
+  },
+  {
+    "url": "https://www.feedhive.com/favicon.ico?favicon.71ae01f0.ico",
+    "name": "favicon.ico",
+    "kind": "image"
+  }
+]
